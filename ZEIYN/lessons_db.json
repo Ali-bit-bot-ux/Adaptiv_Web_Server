@@ -1,0 +1,412 @@
+{
+    "D20414": {
+        "id": "D20567",
+        "topic": "основа сложения",
+        "steps": [
+            {
+                "step_number": 1,
+                "title": "Представление базы",
+                "ar_visual_element": "Демонстрация цифр с основой 10 и 2",
+                "teacher_action": "Ввести вопросы об основаниях чисел"
+            },
+            {
+                "step_number": 2,
+                "title": "Сравнение оснований",
+                "ar_visual_element": "Сравнение чисел с разными основаниями",
+                "teacher_action": "Предложить учащимся найти числа с разными основаниями"
+            },
+            {
+                "step_number": 3,
+                "title": "Применение сложения по основанию",
+                "ar_visual_element": "Умножение чисел по основанию 2",
+                "teacher_action": "Направить учащихся на практическое решение задач по сложению по основанию"
+            }
+        ]
+    },
+    "2DBEA1": {
+        "id": "3F2ACD",
+        "topic": "Основы сложения",
+        "steps": [
+            {
+                "step_number": 1,
+                "title": "Ознакомление с понятием сложения",
+                "ar_visual_element": "Визуализация сложения посредством AR",
+                "teacher_action": "Представление теоретических основ сложения и демонстрация примеров"
+            },
+            {
+                "step_number": 2,
+                "title": "Практическая работа над сложением",
+                "ar_visual_element": "Активное использование AR для построения числовых выражений",
+                "teacher_action": "Руководство учащихся в построении числовых выражений для сложения и предоставление обратной связи"
+            },
+            {
+                "step_number": 3,
+                "title": "Тестирование понимания сложения",
+                "ar_visual_element": "Использование AR для демонстрации сложных примеров",
+                "teacher_action": "Тестирование понимания сложения учащихся и определение области для дальнейшего improvement"
+            }
+        ]
+    },
+    "C0584A": {
+        "id": "B7A3C6",
+        "topic": "сложение",
+        "steps": [
+            {
+                "step_number": 1,
+                "title": "Начнем с простых чисел",
+                "ar_visual_element": "Рисуем 2 плюс 2 с помощью AR",
+                "teacher_action": "Отвечать на вопросы учеников"
+            },
+            {
+                "step_number": 2,
+                "title": "Сложение двух- и трехзначных чисел",
+                "ar_visual_element": "Представление сложения двух- и трехзначных чисел в AR",
+                "teacher_action": "Использовать образцы и контрольные задания для практики"
+            },
+            {
+                "step_number": 3,
+                "title": "Практическое задание",
+                "ar_visual_element": "Расчет сложением 1-3 цифр в AR",
+                "teacher_action": "Оценивать и корректировать работу учеников"
+            }
+        ]
+    },
+    "9067F0": {
+        "id": "9067F1",
+        "topic": "сложение",
+        "steps": [
+            {
+                "step_number": 1,
+                "title": "Подготовка",
+                "ar_visual_element": "Используйте AR-матричку для отображения цифр и обозначений сложения",
+                "teacher_action": "Представьте цель урока и напишите пример сложения на доске"
+            },
+            {
+                "step_number": 2,
+                "title": "Практика",
+                "ar_visual_element": "Сгенерируйте случайные примеры сложения в AR-матричке",
+                "teacher_action": "Дайте учащимся возможность решать примеры и проверять ответы"
+            },
+            {
+                "step_number": 3,
+                "title": "Общение и оценка",
+                "ar_visual_element": "Отдайте ученикам примеры сложения на бумаге для решения",
+                "teacher_action": "Объедините команды, обсуждавшие сложение, вместе с классом и оцените результаты"
+            }
+        ]
+    },
+    "D263E4": {
+        "id": "3C5A8E",
+        "topic": "сложение",
+        "steps": [
+            {
+                "step_number": 1,
+                "title": "Рассказ о понятии сложения",
+                "ar_visual_element": "Визуализация AR примера сложения 2+2",
+                "teacher_action": "Прочитать историю про сложение и продемонстрировать AR-элемент"
+            },
+            {
+                "step_number": 2,
+                "title": "Практическое решение задач сложения",
+                "ar_visual_element": "Проблема сложения на AR, где ученик может решить",
+                "teacher_action": "Организовать групповой процесс решения задачи сложения и обратить внимание на правильные действия"
+            },
+            {
+                "step_number": 3,
+                "title": "Активный контроль и обратная связь",
+                "ar_visual_element": "Использование AR для проверки правильности решений",
+                "teacher_action": "Вручную проверить решения учеников и предоставить обратную связь для улучшения понимания сложения"
+            }
+        ]
+    },
+    "A24ED1": {
+        "id": "A24ED1",
+        "topic": "Сложение",
+        "steps": [
+            {
+                "step_number": 1,
+                "title": "Понимание понятия сложения",
+                "ar_visual_element": "Прозрачное цилиндр с надписью на конце 2+2",
+                "teacher_action": "Объясните пример сложения 2+2"
+            },
+            {
+                "step_number": 2,
+                "title": "Прaktische_упражнение",
+                "ar_visual_element": "Папка с числами 2/3/5",
+                "teacher_action": "Попросить учащегося записать сложение 2+3+5"
+            },
+            {
+                "step_number": 3,
+                "title": "Умные_задачи_",
+                "ar_visual_element": "Картонка с задачей сложения 10+8",
+                "teacher_action": "Задайте учащемуся сложить 10+8 и объясните, как найти сумму"
+            }
+        ]
+    },
+    "3DDB41": {
+        "id": "3DDB41",
+        "topic": "умножение",
+        "steps": [
+            {
+                "step_number": 1,
+                "title": "Обозначение умножения",
+                "ar_visual_element": "3D модель куба",
+                "teacher_action": "Попросить учеников описать понятие умножения"
+            },
+            {
+                "step_number": 2,
+                "title": "Работа с простейшими числами",
+                "ar_visual_element": "Шахматная доска",
+                "teacher_action": "Рассказать, что 2 × 3 равно 6 и показать пример на шахматной доске"
+            },
+            {
+                "step_number": 3,
+                "title": "Умножение двух трёхзначных чисел",
+                "ar_visual_element": "Виртуальная доска",
+                "teacher_action": "Попросить учеников решить примеры на виртуальной доске и обсудить решения"
+            }
+        ]
+    },
+    "745AF2": {
+        "id": "745AF2",
+        "topic": "умножение",
+        "steps": [
+            {
+                "step_number": 1,
+                "title": "Разберем умножение на однозначные числа",
+                "ar_visual_element": "Ученику отображается 2 числа (5 и 4)",
+                "teacher_action": "Учитель демонстрирует умножение 5 на 4, используя плоскую доску"
+            },
+            {
+                "step_number": 2,
+                "title": "Применение умножения к двузначным числам",
+                "ar_visual_element": "Ученику отображается 2 двузначных числа (34 и 12)",
+                "teacher_action": "Учитель показывает пример умножения 34 на 12"
+            },
+            {
+                "step_number": 3,
+                "title": "Практические упражнения",
+                "ar_visual_element": "Ученику предлагается решить несколько заданий с умножением",
+                "teacher_action": "Учитель контролирует выполнение заданий и помогает учащимся, если они запутаются"
+            }
+        ]
+    },
+    "7833FD": {
+        "id": "7833FD",
+        "topic": "Умножение 3 на 4",
+        "steps": [
+            {
+                "step_number": 1,
+                "spheres_count": 0,
+                "voiceover_text": "Умножение 3 на 4 означает повторение 3 по 4 раз",
+                "title": "Шаг 1: Теория"
+            },
+            {
+                "step_number": 2,
+                "spheres_count": 3,
+                "voiceover_text": "Мы берем 3 шара.",
+                "title": "Шаг 2: Представление"
+            },
+            {
+                "step_number": 3,
+                "spheres_count": 12,
+                "voiceover_text": "И повторяем операцию 4 раза, получая в общей сложности 12 шаров.",
+                "title": "Шаг 3: Действие"
+            },
+            {
+                "step_number": 4,
+                "spheres_count": 12,
+                "voiceover_text": "Итак, умножение 3 на 4 дает 12.",
+                "title": "Шаг 4: Результат"
+            }
+        ]
+    },
+    "C896F7": {
+        "id": "C896F7",
+        "topic": "Умножение",
+        "diagnosis": "Норма",
+        "steps": [
+            {
+                "step_number": 1,
+                "spheres_count": 0,
+                "voiceover_text": "Давайте учимся складывать яблоки!",
+                "title": "Введение в умножение",
+                "is_interactive": false,
+                "correct_answer": 0,
+                "praise_text": "",
+                "support_text": ""
+            },
+            {
+                "step_number": 2,
+                "spheres_count": 10,
+                "voiceover_text": "Представь, что у тебя 2 корзины с яблоками, а в каждой корзине 5 яблок.",
+                "title": "Пример",
+                "is_interactive": false,
+                "correct_answer": 0,
+                "praise_text": "",
+                "support_text": ""
+            },
+            {
+                "step_number": 3,
+                "spheres_count": 10,
+                "voiceover_text": "",
+                "title": "ИНТЕРАКТИВ",
+                "is_interactive": true,
+                "correct_answer": 10,
+                "praise_text": "Умница! Правильно!",
+                "support_text": "Попробуй еще раз, у тебя получится!"
+            },
+            {
+                "step_number": 4,
+                "spheres_count": 0,
+                "voiceover_text": "Умножение — это когда мы многократно складываем одну и ту же величину.",
+                "title": "Итог",
+                "is_interactive": false,
+                "correct_answer": 0,
+                "praise_text": "",
+                "support_text": ""
+            }
+        ]
+    },
+    "CC5AA6": {
+        "id": "CC5AA6",
+        "topic": "Умножение",
+        "diagnosis": "Норма",
+        "steps": [
+            {
+                "step_number": 1,
+                "spheres_count": 0,
+                "voiceover_text": "Умножение — это сложение одинаковых чисел",
+                "title": "Теория",
+                "is_interactive": false,
+                "correct_answer": 0,
+                "praise_text": "",
+                "support_text": ""
+            },
+            {
+                "step_number": 2,
+                "spheres_count": 5,
+                "voiceover_text": "Представь, что у нас есть корзина с 5 яблоками. Посмотри на них",
+                "title": "Представление",
+                "is_interactive": false,
+                "correct_answer": 0,
+                "praise_text": "",
+                "support_text": ""
+            },
+            {
+                "step_number": 3,
+                "spheres_count": 25,
+                "voiceover_text": "Если таких корзин будет 2, то добавится еще 5 яблок. Посчитай, сколько их будет при 2 умножить на 5?",
+                "title": "ИНТЕРАКТИВ",
+                "is_interactive": true,
+                "correct_answer": 25,
+                "praise_text": "Супер! Все верно!",
+                "support_text": "Не совсем так. Давай посмотрим на пример еще раз!"
+            },
+            {
+                "step_number": 4,
+                "spheres_count": 25,
+                "voiceover_text": "Задача решена! При 2 умножить на 5 equals 25",
+                "title": "Итог",
+                "is_interactive": false,
+                "correct_answer": 0,
+                "praise_text": "",
+                "support_text": ""
+            }
+        ]
+    },
+    "3836B6": {
+        "id": "3836B6",
+        "topic": "умножение",
+        "diagnosis": "Норма",
+        "steps": [
+            {
+                "step_number": 1,
+                "spheres_count": 0,
+                "voiceover_text": "В математике умножение — это операция, которая предполагает сложение одного числа вместе столько раз, сколько указано в другом числе. Например, 2 × 5 = ?",
+                "title": "Теория умножения",
+                "is_interactive": false,
+                "correct_answer": 0,
+                "praise_text": "Молодец!",
+                "support_text": "Попробуй еще раз!"
+            },
+            {
+                "step_number": 2,
+                "spheres_count": 5,
+                "voiceover_text": "Представим, что у нас есть 5 яблок.",
+                "title": "Вот 5 яблок",
+                "is_interactive": false,
+                "correct_answer": 0,
+                "praise_text": "Молодец!",
+                "support_text": "Попробуй еще раз!"
+            },
+            {
+                "step_number": 3,
+                "spheres_count": 10,
+                "voiceover_text": "Сколько яблок получится, если мы сложим 5 яблок еще 2 раза?",
+                "title": "Сколько яблок получится?",
+                "is_interactive": true,
+                "correct_answer": 10,
+                "praise_text": "Молодец!",
+                "support_text": "Попробуй еще раз!"
+            },
+            {
+                "step_number": 4,
+                "spheres_count": 10,
+                "voiceover_text": "Ответ: 10.",
+                "title": "Ответ",
+                "is_interactive": false,
+                "correct_answer": 0,
+                "praise_text": "Молодец!",
+                "support_text": "Попробуй еще раз!"
+            }
+        ]
+    },
+    "B0FD63": {
+        "id": "B0FD63",
+        "topic": "Умножение: секрет знака «×»",
+        "diagnosis": "РАС",
+        "steps": [
+            {
+                "step_number": 1,
+                "spheres_count": 0,
+                "voiceover_text": "Умножение — это «быстрое сложение». Например, вместо того чтобы писать 2+2+2+2+2, мы пишем 2 х 5.",
+                "title": "Теория",
+                "is_interactive": false,
+                "correct_answer": 0,
+                "praise_text": "",
+                "support_text": ""
+            },
+            {
+                "step_number": 2,
+                "spheres_count": 1,
+                "voiceover_text": "Три кошки, каждая у которых по 2 лапы. Сможешь посчитать, сколько лапок всего?",
+                "title": "Представление",
+                "is_interactive": false,
+                "correct_answer": 0,
+                "praise_text": "",
+                "support_text": ""
+            },
+            {
+                "step_number": 3,
+                "spheres_count": 6,
+                "voiceover_text": "Поехали! Если у нас три кошки со 2 лапами на кошку, сколько лап у нас у всех получается? Рассчитай и попробуй ответить!",
+                "title": "ИНТЕРАКТИВ",
+                "is_interactive": true,
+                "correct_answer": 6,
+                "praise_text": "Супер! Все верно!",
+                "support_text": "Не совсем так. Давай посмотрим на пример еще раз!"
+            },
+            {
+                "step_number": 4,
+                "spheres_count": 6,
+                "voiceover_text": "Забавно? Умножение — это действительно «быстрое сложение»!",
+                "title": "Итог",
+                "is_interactive": false,
+                "correct_answer": 6,
+                "praise_text": "",
+                "support_text": ""
+            }
+        ]
+    }
+}
